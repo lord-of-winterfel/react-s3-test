@@ -1,4 +1,3 @@
-import logo from "./logo.svg";
 import "./App.css";
 import { Button } from "custom-react-components-arundinesh06";
 
