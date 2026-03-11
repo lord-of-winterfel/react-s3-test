@@ -18,7 +18,7 @@ jobs:
           node-version: ${{ secrets.NODE_VERSION }}
 
       - name: Dependency Installation
-        uses: npm Install
+        uses: npm install
 
       - name: App Build
         uses: npm run build
