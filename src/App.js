@@ -6,7 +6,9 @@ function App() {
   console.log(sum);
   return (
     <div className="App">
-      <Button variant="danger">Power</Button>
+      <Button variant="primary">Primary</Button>
+      <Button variant="secondary">Secondary</Button>
+      <Button variant="danger">Danger</Button>
     </div>
   );
 }
